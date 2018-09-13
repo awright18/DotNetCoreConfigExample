@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "source", "source", "{5B4F8055-A1AB-45BF-B9FC-27B8ADF309AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web", "source\web\web.csproj", "{B4CBD99B-1534-4869-B99B-2AC6E634D0FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foo", "source\foo\Foo.csproj", "{A7BCD295-8BD7-47C6-AAE8-35C6F2B7777F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bar", "source\bar\Bar.csproj", "{D3E74B3D-229A-450C-9838-3F9FC8F96030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4CBD99B-1534-4869-B99B-2AC6E634D0FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CBD99B-1534-4869-B99B-2AC6E634D0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CBD99B-1534-4869-B99B-2AC6E634D0FD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B4CBD99B-1534-4869-B99B-2AC6E634D0FD}.Debug|x64.Build.0 = Debug|Any CPU
+		{B4CBD99B-1534-4869-B99B-2AC6E634D0FD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B4CBD99B-1534-4869-B99B-2AC6E634D0FD}.Debug|x86.Build.0 = Debug|Any CPU
+		{B4CBD99B-1534-4869-B99B-2AC6E634D0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CBD99B-1534-4869-B99B-2AC6E634D0FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4CBD99B-1534-4869-B99B-2AC6E634D0FD}.Release|x64.ActiveCfg = Release|Any CPU
+		{B4CBD99B-1534-4869-B99B-2AC6E634D0FD}.Release|x64.Build.0 = Release|Any CPU
+		{B4CBD99B-1534-4869-B99B-2AC6E634D0FD}.Release|x86.ActiveCfg = Release|Any CPU
+		{B4CBD99B-1534-4869-B99B-2AC6E634D0FD}.Release|x86.Build.0 = Release|Any CPU
+		{A7BCD295-8BD7-47C6-AAE8-35C6F2B7777F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7BCD295-8BD7-47C6-AAE8-35C6F2B7777F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7BCD295-8BD7-47C6-AAE8-35C6F2B7777F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A7BCD295-8BD7-47C6-AAE8-35C6F2B7777F}.Debug|x64.Build.0 = Debug|Any CPU
+		{A7BCD295-8BD7-47C6-AAE8-35C6F2B7777F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A7BCD295-8BD7-47C6-AAE8-35C6F2B7777F}.Debug|x86.Build.0 = Debug|Any CPU
+		{A7BCD295-8BD7-47C6-AAE8-35C6F2B7777F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7BCD295-8BD7-47C6-AAE8-35C6F2B7777F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7BCD295-8BD7-47C6-AAE8-35C6F2B7777F}.Release|x64.ActiveCfg = Release|Any CPU
+		{A7BCD295-8BD7-47C6-AAE8-35C6F2B7777F}.Release|x64.Build.0 = Release|Any CPU
+		{A7BCD295-8BD7-47C6-AAE8-35C6F2B7777F}.Release|x86.ActiveCfg = Release|Any CPU
+		{A7BCD295-8BD7-47C6-AAE8-35C6F2B7777F}.Release|x86.Build.0 = Release|Any CPU
+		{D3E74B3D-229A-450C-9838-3F9FC8F96030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E74B3D-229A-450C-9838-3F9FC8F96030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E74B3D-229A-450C-9838-3F9FC8F96030}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D3E74B3D-229A-450C-9838-3F9FC8F96030}.Debug|x64.Build.0 = Debug|Any CPU
+		{D3E74B3D-229A-450C-9838-3F9FC8F96030}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D3E74B3D-229A-450C-9838-3F9FC8F96030}.Debug|x86.Build.0 = Debug|Any CPU
+		{D3E74B3D-229A-450C-9838-3F9FC8F96030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E74B3D-229A-450C-9838-3F9FC8F96030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E74B3D-229A-450C-9838-3F9FC8F96030}.Release|x64.ActiveCfg = Release|Any CPU
+		{D3E74B3D-229A-450C-9838-3F9FC8F96030}.Release|x64.Build.0 = Release|Any CPU
+		{D3E74B3D-229A-450C-9838-3F9FC8F96030}.Release|x86.ActiveCfg = Release|Any CPU
+		{D3E74B3D-229A-450C-9838-3F9FC8F96030}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B4CBD99B-1534-4869-B99B-2AC6E634D0FD} = {5B4F8055-A1AB-45BF-B9FC-27B8ADF309AA}
+		{A7BCD295-8BD7-47C6-AAE8-35C6F2B7777F} = {5B4F8055-A1AB-45BF-B9FC-27B8ADF309AA}
+		{D3E74B3D-229A-450C-9838-3F9FC8F96030} = {5B4F8055-A1AB-45BF-B9FC-27B8ADF309AA}
+	EndGlobalSection
+EndGlobal
